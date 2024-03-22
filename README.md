@@ -32,7 +32,7 @@ Execute the program using runserver command.
 </head>
 <img src="logo.png" height="200" width="1200">
 <table border ="2" cellpadding="2" width="400" heigth="400"
-<caption> <h2>Camu Schedule </h2></caption>
+<caption> <h2>Camu Schedule -senthamizhan-212221040150</h2></caption>
 <tr bgcolor="red">
 
 
@@ -138,6 +138,7 @@ Execute the program using runserver command.
 
 </body>
 </html>
+
 ```
 
 ## OUTPUT
